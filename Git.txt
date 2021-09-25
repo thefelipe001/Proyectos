@@ -3,9 +3,16 @@ Paso para Subir un Repositorio en Git
 git init
 git status 
 git add . o git add nombre_del_archivo
-git commit - m "Agregar una Descripcion"
+git commit -m "Agregar una Descripcion"
 git remote add origin  https://github.com/thefelipe001/Proyectos.git
 git push -u origin master
 
 Como actualizar un Repositorio en Git 
+git status
+git add nombre_del_archivo
+git commit -m "Actualizado los datos"
+git push
+
+
+
 
