@@ -36,6 +36,11 @@ git checkout master
 git merge nombredelrama (Que quiero combinar)
 git push (Guardar cambios)
 git branch -d nombre (rama al eliminar)
+// para borrar la branch local
+git branch -d localBranchName
+
+// para borrar la branch remota
+git push origin --delete remoteBranchName
 
 
 
