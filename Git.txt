@@ -34,6 +34,8 @@ git status
 git add .
 git checkout master
 git merge nombredelrama (Que quiero combinar)
+git push (Guardar cambios)
+git branch -d nombre (rama al eliminar)
 
 
 
