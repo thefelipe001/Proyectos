@@ -27,6 +27,23 @@ git merge nombredelarama quese quiere combinar
 como crear y dirigimos a la rama imediatamente
 git checkout -b rama_opcion
 
+Como Crear una nueva rama unirla luego eliminarla y guardarla
+git branch prueba (Creo la rama)
+git checkout prueba (Voy a la rama)
+git status
+git add .
+git checkout master
+git merge nombredelrama (Que quiero combinar)
+
+
+
+
+
+
+
+
+
+
 
 
 
