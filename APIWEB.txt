@@ -1,0 +1,6 @@
+Instalando libreria en Net core
+Microsoft.AspNetCore.JsonPatch.dll
+Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+Newtonsoft.Json.Bson.dll
+Newtonsoft.Json.dll
+System.Data.SqlClient.dll
