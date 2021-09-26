@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWEB1", "APIWEB1\APIWEB1.csproj", "{F611218B-3D85-4423-87A2-FDF19F52A9ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F611218B-3D85-4423-87A2-FDF19F52A9ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F611218B-3D85-4423-87A2-FDF19F52A9ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F611218B-3D85-4423-87A2-FDF19F52A9ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F611218B-3D85-4423-87A2-FDF19F52A9ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {177218D1-C03D-4A42-8F8A-9182F7835DB5}
+	EndGlobalSection
+EndGlobal
