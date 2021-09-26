@@ -13,6 +13,20 @@ git add nombre_del_archivo
 git commit -m "Actualizado los datos"
 git push
 
+Como Crear una Nueva Rama
+git branch Nombre_de_la_Rama
+Ver el status de una Rama
+git branch
+Como cambiar de Rama
+git checkout Nombre_de_Rama o si te da error git checkout -f nombre_DeRama
+Para ver los commit que se han hecho se ultiliza 
+git log
+como eliminar una rama git branch -d nombre_de_larama
+Como unir dos ramas
+git merge nombredelarama quese quiere combinar
+como crear y dirigimos a la rama imediatamente
+git checkout -b rama_opcion
+
 
 
 
